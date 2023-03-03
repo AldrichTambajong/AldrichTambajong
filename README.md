@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @AldrichTambajong
-I'm a computer science major at Georgia State University. I love playing laser tag, go karting,and going out to EAT, 
-especially with friends in and out of school. Coding is real dear to me because it was the first time I felt really engaged
-in academic learning and it was so cool to sort of think outside the box to develop programs for assignments. Not to mention 
-that ultimate bliss of seeing a, relatively large, program work the way you want it and those small reliefs of creating and revising
-the small problems to make the entire program work.
+I'm a graduate of Georgia State University with a B.S in Computer Science and I love developing and working on mobile/web applications, especially when I'm collaborating with others on it, and am currently looking for a job in my field. In my spare time, I love to cook or go eat out with friends and I'm a powerlifting enthusiast because I believe a healthy body results in a healthy mind... and I also enjoy lifting heavy weights! 
+
+Coding is real dear to me because it was the first time I felt really engaged in academic learning and it was so cool to think outside the box to develop programs for assignments. Soon when I first learned html/css/js and php, I found that I enjoy building web apps and very soon mobile apps when I started learning how to work in Android Studio/Xcode and I fell in love with Software Engineering! I also found Data Science very interesting as I started learning it towards the end of my bachelors, especially implementing Db's into my apps. There were of course major problems and frustrations along the way but that ultimate bliss of seeing a, relatively large, program work as intended after debugging for hours and even days is just indescribable!
 
 <!---
 AldrichTambajong/AldrichTambajong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
